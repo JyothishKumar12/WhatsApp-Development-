@@ -6,5 +6,6 @@ last seen code
 Hide last seen
 
 Add video calls
+add documents
 Add 5G internet calls
 Added status
