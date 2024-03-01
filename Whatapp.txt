@@ -4,3 +4,6 @@ Chat screen cod
 last seen code
 
 Hide last seen
+
+Add video calls
+Add Audio calls
