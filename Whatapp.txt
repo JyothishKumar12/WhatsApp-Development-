@@ -6,5 +6,5 @@ last seen code
 Hide last seen
 
 Add video calls
-Add Audio calls
+Add internet calls
 Added status
