@@ -7,3 +7,4 @@ Hide last seen
 
 Add video calls
 Add Audio calls
+Added status
